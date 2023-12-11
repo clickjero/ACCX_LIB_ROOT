@@ -1,0 +1,11 @@
+{
+    "name": "Manage Remote Site settings to support canceling orders",
+    "description": "Ability to create remote site settings to support canceling orders.",
+    "code": 3,
+    "version": "1.0.0",
+    "active": true,
+    "category": "Salesforce Automation",
+    "area": "Platform Configuration",
+    "type": "Configuration",
+    "$schema": "../config/manifest.schema.json"
+}
